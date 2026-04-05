@@ -22,6 +22,7 @@ p{
     display: grid;
     grid-template-columns: 800px;
     justify-content: center;
+    height: auto;
     gap: 5px;
 }
 
@@ -29,7 +30,7 @@ p{
     background-color: rgb(149, 149, 149);
     border: solid black 5px;
     text-align: left;
-    box-sizing: 20px;
+    box-sizing: 40px;
 
 
 }
